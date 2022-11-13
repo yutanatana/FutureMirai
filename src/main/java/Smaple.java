@@ -1,6 +1,6 @@
 
 public class Smaple {
-
+//教科書5-3練習問題
 	public static void main (String[] args) {
 	 String address = "futureMirai@pornhub.com";
 	 String text = "今度一緒に遊びませんか";
