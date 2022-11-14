@@ -1,6 +1,6 @@
 package cal;
 public class calc {
-
+// multiple class
 	public static void main(String[] args) {
 		int a =  10; 
 		int b = 2;
