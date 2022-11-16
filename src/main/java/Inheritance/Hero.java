@@ -1,6 +1,6 @@
 package Inheritance;
 
-public class Hero {
+public class Hero {                   //クラスにfinalがついていたら継承禁止
 String name = "金丸";
 int hp = 100;
 
