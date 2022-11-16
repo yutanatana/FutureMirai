@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	h.attack(m);
 	SuperHero sh = new SuperHero();
 	
-	sh.run();
+	sh.run(); //親クラスHeroのメンバをSuperHeroのメンバが上書き→オーバーライド
 	sh.fly();
 	
 
