@@ -8,9 +8,14 @@ public static void main(String[] args) {
 	
 	h.run();
 	h.attack(m);
+	h.attack(m);
+	h.attack(m);
+	h.attack(m);
 	SuperHero sh = new SuperHero();
 	
 	sh.run();
 	sh.fly();
+	
+
 }
 }
