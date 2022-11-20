@@ -13,4 +13,7 @@ public class SuperHero extends Hero {
 public void run() {
 	System.out.println(this.name + "は撤退した");
 }
+public void damage(Hero h) {
+	h.hp -= 100;
+}
 }
